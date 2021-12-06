@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/%40angular%2Fcli-v13.0.4-red) ![](https://img.shields.io/badge/%40angular%2Frouter-v13.0.0-green)
 
-Esta aplicación esta realizado en el framework de Angular. Se ingresara un presupuesto inicial, el cual se estara descontando de acuerdo a los gastos que sean ingresado por el usuario.
+Esta aplicación esta realizado en el framework de Angular. Se ingresara un presupuesto inicial, el cual se estará descontando de acuerdo a los gastos que sean ingresado por el usuario.
 
 ## Desplegado
 

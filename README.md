@@ -1,27 +1,15 @@
-# PresupuestoAngular
+# Presupuesto Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+![](https://img.shields.io/badge/%40angular%2Fcli-v13.0.4-red) ![](https://img.shields.io/badge/%40angular%2Frouter-v13.0.0-green)
 
-## Development server
+Esta aplicación esta realizado en el framework de Angular. Se ingresara un presupuesto inicial, el cual se estara descontando de acuerdo a los gastos que sean ingresado por el usuario.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Desplegado
 
-## Code scaffolding
+**[PRESUPUESTO-DEPLOY](https://presupuesto-gastos-angular.netlify.app/)**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Netlify Status](https://api.netlify.com/api/v1/badges/120a9322-1570-4235-9c1b-f15240f1ae2e/deploy-status)]
 
-## Build
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/120a9322-1570-4235-9c1b-f15240f1ae2e/deploy-status)](https://app.netlify.com/sites/presupuesto-gastos-angular/deploys) -->
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
